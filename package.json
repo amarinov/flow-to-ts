@@ -1,6 +1,6 @@
 {
-  "name": "@khanacademy/flow-to-ts",
-  "version": "0.1.5",
+  "name": "@sasho/flow-to-ts",
+  "version": "0.1.8",
   "publishConfig": {
     "access": "public"
   },
